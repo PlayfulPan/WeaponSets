@@ -3,7 +3,7 @@
 
 Provides commands for creating/updating weapon sets using the built-in equipment manager in Classic World of Warcraft.
 
-## Installation (Classic)
+## Installation
 1. Download **`WeaponSets.zip`** from the GitHub Releases page.
 2. Extract so you have a single folder (e.g., **`WeaponSets/`**).
 3. Move that folder to: `World of Warcraft/_classic_era_/Interface/AddOns/`
