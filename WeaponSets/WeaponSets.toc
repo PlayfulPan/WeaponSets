@@ -1,6 +1,6 @@
 ## Interface: 11508, 11507
 ## Title: WeaponSets
 ## Notes: Commands to control Blizzard's in-game equipment manager
-## Version: 1.0
+## Version: 0.1-beta
 
 WeaponSets.lua
