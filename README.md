@@ -1,7 +1,7 @@
 
 # WeaponSets
 
-Simple slash commands for managing **Main-Hand/Off-Hand** equipment sets in **Classic WoW**.
+Provides commands for creating/updating weapon sets using the built-in equipment manager in Classic World of Warcraft.
 
 ## Installation (Classic)
 1. Download **`WeaponSets.zip`** from the GitHub Releases page.
