@@ -20,3 +20,4 @@ Provides commands for creating/updating weapon sets using the built-in equipment
 - Quotes are only needed if the name contains spaces.
 - “MH/OH-only” saves only **slot 16** (Main-Hand) and **slot 17** (Off-Hand).
 
+Once a weapon set is created, you can use `/equipset <name>` in macros.
