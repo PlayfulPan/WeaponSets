@@ -6,7 +6,7 @@ Simple slash commands for managing **Main-Hand/Off-Hand** equipment sets in **Cl
 ## Installation (Classic)
 1. Download **`WeaponSets.zip`** from the GitHub Releases page.
 2. Extract so you have a single folder (e.g., **`WeaponSets/`**).
-3. Move that folder to:`World of Warcraft/*classic_era*/Interface/AddOns/`
+3. Move that folder to: `World of Warcraft/_classic_era_/Interface/AddOns/`
 4. In-game, enable the addon (check **Load out of date AddOns** if needed) and `/reload`.
 
 ## Usage
