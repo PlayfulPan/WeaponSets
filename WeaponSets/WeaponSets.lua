@@ -1,5 +1,5 @@
 ----------------------------------------------------------------
--- GearCommands: list / create / update / delete equipment sets
+-- WeaponSets: list / create / update / delete equipment sets
 --   /ws list
 --   /ws create "<name>"     -- only if it doesn't already exist
 --   /ws update "<name>"     -- must already exist
